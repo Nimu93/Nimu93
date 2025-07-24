@@ -47,7 +47,7 @@
 
 ---
 
-### 💻 **42sh**
+### [42sh](https://github.com/ErwannLesech/42-Sh)
 > Custom Unix Shell clone written in **C**
 
 - Parsing, execution, pipes, redirections
@@ -56,7 +56,7 @@
 
 ---
 
-### 🔍 **OCR Sudoku Solver**
+### [OCR Sudoku Solver](https://github.com/ErwannLesech/OCR)
 > Solves a Sudoku puzzle from a **photographed grid**
 
 - Image processing and digit recognition (basic OCR)
